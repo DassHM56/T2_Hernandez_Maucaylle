@@ -18,3 +18,7 @@ Evaluación T2 - Lenguaje de Programación II - Profesor. Bocanegra Pinchi Yan C
 ## Control de cambios 
 Se gestionan cambios entre working directory, staging area y repositorio local usando git diff, git add y git restore.
 
+
+## Gestión de ramas 
+Rama utilizada: feature-hernandez. Se creó la clase ControlVersion_Hernandez.java que muestra un mensaje en consola desde una rama independiente.
+
