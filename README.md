@@ -14,3 +14,7 @@ Repositorio para la Evaluación T2 mostrando el control de versiones projecto Ma
 ## Evidencia de la T2 segunda commit
 Evaluación T2 - Lenguaje de Programación II - Profesor. Bocanegra Pinchi Yan Carlos.
 
+
+## Control de cambios 
+Se gestionan cambios entre working directory, staging area y repositorio local usando git diff, git add y git restore.
+
