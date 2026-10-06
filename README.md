@@ -22,3 +22,8 @@ Se gestionan cambios entre working directory, staging area y repositorio local u
 ## Gestión de ramas 
 Rama utilizada: feature-hernandez. Se creó la clase ControlVersion_Hernandez.java que muestra un mensaje en consola desde una rama independiente.
 
+
+## Gestión de ramas
+
+Rama utilizada: feature-hernandez. Se creó la clase ControlVersion_Hernandez.java que muestra un mensaje en consola desde una rama independiente.
+
