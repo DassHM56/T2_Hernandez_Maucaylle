@@ -1,0 +1,11 @@
+target/
+bin/
+*.class
+# Archivos de configuración de Eclipse
+.settings/
+.classpath
+.project
+.metadata/
+*.log
+Thumbs.db
+.DS_Store
